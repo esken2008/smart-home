@@ -1,0 +1,72 @@
+body {
+  background-image: url("2.png");
+}
+header {
+  display: flex;
+  align-items: center;
+}
+header > div {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  list-style: none;
+  display: flex;
+  color: white;
+  font-family: Helvetica;
+}
+li {
+  margin: 0 10px;
+}
+input {
+  width: 150px;
+  height: 30px;
+  border-radius: 42px;
+  border: 1px solid #ffffff;
+  outline: none;
+  position: relative;
+  transition: 3s linear;
+  background-color: #b734e2;
+  margin: 0 10px;
+}
+
+.i {
+  width: 150px;
+  height: 20;
+}
+
+::placeholder {
+  color: white;
+  font-family: Helvetica;
+}
+
+.ewq {
+  text-transform: inherit;
+  font-family: monospace;
+  font-weight: 900;
+  color: white;
+  font-size: 50px;
+}
+
+.nbv {
+  width: 300px;
+  height: 420;
+  opacity: 0, 5;
+  position: absolute;
+  margin: 0 500px;
+}
+
+.vbn {
+  text-transform: inherit;
+  font-family: serif;
+  font-weight: 900;
+  color: white;
+  font-size: 30px;
+}
+.zzx {
+  text-transform: inherit;
+  font-family: serif;
+  font-weight: 900;
+  color: white;
+  font-size: 30px;
+}
